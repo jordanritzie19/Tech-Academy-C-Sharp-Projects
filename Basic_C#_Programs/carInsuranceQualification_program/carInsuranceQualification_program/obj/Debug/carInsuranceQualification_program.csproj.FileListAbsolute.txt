@@ -1,0 +1,7 @@
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\carInsuranceQualification_program\carInsuranceQualification_program\bin\Debug\carInsuranceQualification_program.exe.config
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\carInsuranceQualification_program\carInsuranceQualification_program\bin\Debug\carInsuranceQualification_program.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\carInsuranceQualification_program\carInsuranceQualification_program\bin\Debug\carInsuranceQualification_program.pdb
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\carInsuranceQualification_program\carInsuranceQualification_program\obj\Debug\carInsuranceQualification_program.csproj.AssemblyReference.cache
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\carInsuranceQualification_program\carInsuranceQualification_program\obj\Debug\carInsuranceQualification_program.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\carInsuranceQualification_program\carInsuranceQualification_program\obj\Debug\carInsuranceQualification_program.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\carInsuranceQualification_program\carInsuranceQualification_program\obj\Debug\carInsuranceQualification_program.pdb
