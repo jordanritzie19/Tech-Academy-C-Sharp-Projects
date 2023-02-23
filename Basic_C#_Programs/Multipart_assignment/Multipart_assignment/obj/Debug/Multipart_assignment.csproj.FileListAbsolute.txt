@@ -1,0 +1,7 @@
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Multipart_assignment\Multipart_assignment\bin\Debug\Multipart_assignment.exe.config
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Multipart_assignment\Multipart_assignment\bin\Debug\Multipart_assignment.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Multipart_assignment\Multipart_assignment\bin\Debug\Multipart_assignment.pdb
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Multipart_assignment\Multipart_assignment\obj\Debug\Multipart_assignment.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Multipart_assignment\Multipart_assignment\obj\Debug\Multipart_assignment.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Multipart_assignment\Multipart_assignment\obj\Debug\Multipart_assignment.pdb
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Multipart_assignment\Multipart_assignment\obj\Debug\Multipart_assignment.csproj.AssemblyReference.cache
