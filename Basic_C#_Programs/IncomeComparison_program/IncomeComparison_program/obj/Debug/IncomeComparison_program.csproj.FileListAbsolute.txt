@@ -1,0 +1,7 @@
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\IncomeComparison_program\IncomeComparison_program\bin\Debug\IncomeComparison_program.exe.config
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\IncomeComparison_program\IncomeComparison_program\bin\Debug\IncomeComparison_program.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\IncomeComparison_program\IncomeComparison_program\bin\Debug\IncomeComparison_program.pdb
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\IncomeComparison_program\IncomeComparison_program\obj\Debug\IncomeComparison_program.csproj.AssemblyReference.cache
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\IncomeComparison_program\IncomeComparison_program\obj\Debug\IncomeComparison_program.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\IncomeComparison_program\IncomeComparison_program\obj\Debug\IncomeComparison_program.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\IncomeComparison_program\IncomeComparison_program\obj\Debug\IncomeComparison_program.pdb
