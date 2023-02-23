@@ -1,0 +1,6 @@
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\whileDoWhile_program\whileDoWhile_program\bin\Debug\whileDoWhile_program.exe.config
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\whileDoWhile_program\whileDoWhile_program\bin\Debug\whileDoWhile_program.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\whileDoWhile_program\whileDoWhile_program\bin\Debug\whileDoWhile_program.pdb
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\whileDoWhile_program\whileDoWhile_program\obj\Debug\whileDoWhile_program.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\whileDoWhile_program\whileDoWhile_program\obj\Debug\whileDoWhile_program.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\whileDoWhile_program\whileDoWhile_program\obj\Debug\whileDoWhile_program.pdb
