@@ -1,0 +1,7 @@
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\ArrayList_exercise\ArrayList_exercise\bin\Debug\ArrayList_exercise.exe.config
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\ArrayList_exercise\ArrayList_exercise\bin\Debug\ArrayList_exercise.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\ArrayList_exercise\ArrayList_exercise\bin\Debug\ArrayList_exercise.pdb
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\ArrayList_exercise\ArrayList_exercise\obj\Debug\ArrayList_exercise.csproj.AssemblyReference.cache
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\ArrayList_exercise\ArrayList_exercise\obj\Debug\ArrayList_exercise.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\ArrayList_exercise\ArrayList_exercise\obj\Debug\ArrayList_exercise.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\ArrayList_exercise\ArrayList_exercise\obj\Debug\ArrayList_exercise.pdb
