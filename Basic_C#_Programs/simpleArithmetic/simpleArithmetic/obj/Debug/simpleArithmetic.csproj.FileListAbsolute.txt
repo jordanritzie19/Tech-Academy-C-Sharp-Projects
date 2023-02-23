@@ -1,0 +1,7 @@
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\simpleArithmetic\simpleArithmetic\bin\Debug\simpleArithmetic.exe.config
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\simpleArithmetic\simpleArithmetic\bin\Debug\simpleArithmetic.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\simpleArithmetic\simpleArithmetic\bin\Debug\simpleArithmetic.pdb
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\simpleArithmetic\simpleArithmetic\obj\Debug\simpleArithmetic.csproj.AssemblyReference.cache
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\simpleArithmetic\simpleArithmetic\obj\Debug\simpleArithmetic.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\simpleArithmetic\simpleArithmetic\obj\Debug\simpleArithmetic.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\simpleArithmetic\simpleArithmetic\obj\Debug\simpleArithmetic.pdb
