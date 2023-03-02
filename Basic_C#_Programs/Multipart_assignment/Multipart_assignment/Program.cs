@@ -63,12 +63,13 @@ namespace Multipart_assignment
                     Console.WriteLine("That fruit is in index " + i);
                     break;                              //ends the loop
                 }
-                if (i == Fruits.Count)  //if the loop is running by this point on last iteration, there are no matches
-                {
-                    Console.WriteLine("That fruit is not on the list, sorry");
-                }
             }
-            Console.ReadLine();   //pauses part 4 until ready to move on
+            if (!Fruits.Contains(guess))
+            {
+                Console.WriteLine("That fruit isn't on the list, sorry");
+            }
+            Console.ReadLine();  
+            //pauses part 4 until ready to move on
 
 
             //Part 5
