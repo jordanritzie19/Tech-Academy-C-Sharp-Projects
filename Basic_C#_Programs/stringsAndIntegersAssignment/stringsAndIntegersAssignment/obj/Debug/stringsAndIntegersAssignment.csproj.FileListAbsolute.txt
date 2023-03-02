@@ -1,0 +1,6 @@
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\stringsAndIntegersAssignment\stringsAndIntegersAssignment\bin\Debug\stringsAndIntegersAssignment.exe.config
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\stringsAndIntegersAssignment\stringsAndIntegersAssignment\bin\Debug\stringsAndIntegersAssignment.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\stringsAndIntegersAssignment\stringsAndIntegersAssignment\bin\Debug\stringsAndIntegersAssignment.pdb
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\stringsAndIntegersAssignment\stringsAndIntegersAssignment\obj\Debug\stringsAndIntegersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\stringsAndIntegersAssignment\stringsAndIntegersAssignment\obj\Debug\stringsAndIntegersAssignment.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\stringsAndIntegersAssignment\stringsAndIntegersAssignment\obj\Debug\stringsAndIntegersAssignment.pdb
