@@ -1,0 +1,7 @@
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\callingMethods\callingMethods\bin\Debug\callingMethods.exe.config
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\callingMethods\callingMethods\bin\Debug\callingMethods.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\callingMethods\callingMethods\bin\Debug\callingMethods.pdb
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\callingMethods\callingMethods\obj\Debug\callingMethods.csproj.AssemblyReference.cache
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\callingMethods\callingMethods\obj\Debug\callingMethods.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\callingMethods\callingMethods\obj\Debug\callingMethods.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\callingMethods\callingMethods\obj\Debug\callingMethods.pdb
