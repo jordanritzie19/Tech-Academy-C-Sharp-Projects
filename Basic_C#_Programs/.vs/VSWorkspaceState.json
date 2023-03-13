@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\whileDoWhile_program\\whileDoWhile_program"
+    "\\Blackjack",
+    "\\Blackjack\\Blackjack"
   ],
+  "SelectedNode": "\\Blackjack\\Blackjack\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
