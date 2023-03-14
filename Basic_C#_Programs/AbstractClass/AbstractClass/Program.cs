@@ -10,10 +10,19 @@ namespace AbstractClass
     {
         static void Main(string[] args)
         {
-            Person Sample = new Employee() { firstName = "Sample", lastName = "Student" };  //instantiation of Employee
-            Sample.SayName();  //prints full name of employee Sample
+            Employee Sample = new Employee() { firstName = "Sample", lastName = "Student" };  //instantiation of Employee
+            Console.WriteLine("Employee " + Sample.firstName + " " + Sample.lastName + " is working.");
+            //Sample.SayName();  //prints full name of employee Sample
+            Console.WriteLine(Sample.IsWorking);
+
+            Console.WriteLine(Sample.firstName + " has found better opportunities and has left the company");
+            Console.WriteLine(Sample.firstName + " " + Sample.lastName + " works here.");
+            Sample.Quit();
+            Console.WriteLine(Sample.IsWorking);
 
             Console.ReadLine(); //pauses the program
+
+            
         }
     }
 
