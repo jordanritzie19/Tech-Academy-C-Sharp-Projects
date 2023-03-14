@@ -16,9 +16,16 @@ namespace Blackjack
             //game.Play();
             //Console.ReadLine();
 
-            BlackjackGame game = new BlackjackGame();
-            game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
-            game.ListPlayers();
+            //BlackjackGame game = new BlackjackGame();
+            //game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
+            //game.ListPlayers();
+
+            Game game = new BlackjackGame();
+            game.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "Jesse";
+            game += player;
+            game -= player;
 
             Deck deck = new Deck();
             deck.Shuffle(3);
