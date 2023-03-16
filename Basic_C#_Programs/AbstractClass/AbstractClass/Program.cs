@@ -20,6 +20,8 @@ namespace AbstractClass
             Sample.Quit();
             Console.WriteLine(Sample.IsWorking);
 
+            IQuittable quitter = new Employee() { firstName = "Joe", lastName = "Beans" };  //polymorphism
+            quitter.Quit();
             Console.ReadLine(); //pauses the program
 
             

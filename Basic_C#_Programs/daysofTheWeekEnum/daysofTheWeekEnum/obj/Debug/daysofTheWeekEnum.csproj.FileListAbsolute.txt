@@ -1,0 +1,7 @@
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\daysofTheWeekEnum\daysofTheWeekEnum\bin\Debug\daysofTheWeekEnum.exe.config
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\daysofTheWeekEnum\daysofTheWeekEnum\bin\Debug\daysofTheWeekEnum.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\daysofTheWeekEnum\daysofTheWeekEnum\bin\Debug\daysofTheWeekEnum.pdb
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\daysofTheWeekEnum\daysofTheWeekEnum\obj\Debug\daysofTheWeekEnum.csproj.AssemblyReference.cache
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\daysofTheWeekEnum\daysofTheWeekEnum\obj\Debug\daysofTheWeekEnum.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\daysofTheWeekEnum\daysofTheWeekEnum\obj\Debug\daysofTheWeekEnum.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\daysofTheWeekEnum\daysofTheWeekEnum\obj\Debug\daysofTheWeekEnum.pdb

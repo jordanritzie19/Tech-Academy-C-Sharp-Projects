@@ -20,12 +20,17 @@ namespace Blackjack
             //game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
             //game.ListPlayers();
 
-            Game game = new BlackjackGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Jesse";
-            game += player;
-            game -= player;
+            //Game game = new BlackjackGame();
+            //game.Players = new List<Player>();
+            //Player player = new Player();
+            //player.Name = "Jesse";
+            //game += player;
+            //game -= player;
+
+            //Card card = new Card();
+            //card.Suit = Suit.Clubs;
+            //int underlyingValue = Convert.ToInt32(Suit.Diamonds);
+            //Console.WriteLine(underlyingValue);
 
             Deck deck = new Deck();
             deck.Shuffle(3);
@@ -37,7 +42,6 @@ namespace Blackjack
             Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
         }
-   
     }
 }
 
