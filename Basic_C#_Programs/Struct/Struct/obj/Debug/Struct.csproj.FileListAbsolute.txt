@@ -1,0 +1,6 @@
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Struct\Struct\bin\Debug\Struct.exe.config
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Struct\Struct\bin\Debug\Struct.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Struct\Struct\bin\Debug\Struct.pdb
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Struct\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Struct\Struct\obj\Debug\Struct.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Struct\Struct\obj\Debug\Struct.pdb

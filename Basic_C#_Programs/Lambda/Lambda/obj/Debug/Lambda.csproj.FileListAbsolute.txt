@@ -1,0 +1,7 @@
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Lambda\Lambda\bin\Debug\Lambda.exe.config
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Lambda\Lambda\bin\Debug\Lambda.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Lambda\Lambda\bin\Debug\Lambda.pdb
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Lambda\Lambda\obj\Debug\Lambda.csproj.AssemblyReference.cache
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Lambda\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Lambda\Lambda\obj\Debug\Lambda.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Lambda\Lambda\obj\Debug\Lambda.pdb

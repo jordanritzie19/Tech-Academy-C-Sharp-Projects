@@ -10,29 +10,15 @@ namespace Blackjack
     {
         static void Main(string[] args)
         {
-            //BlackjackGame game = new BlackjackGame();
-            //game.Players = new List<string>() { "Jesse", "Bill", "Joe" };
-            //game.ListPlayers();
-            //game.Play();
-            //Console.ReadLine();
-
-            //BlackjackGame game = new BlackjackGame();
-            //game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
-            //game.ListPlayers();
-
-            //Game game = new BlackjackGame();
-            //game.Players = new List<Player>();
-            //Player player = new Player();
-            //player.Name = "Jesse";
-            //game += player;
-            //game -= player;
-
-            //Card card = new Card();
-            //card.Suit = Suit.Clubs;
-            //int underlyingValue = Convert.ToInt32(Suit.Diamonds);
-            //Console.WriteLine(underlyingValue);
-
             Deck deck = new Deck();
+
+            //int count = deck.Cards.Count(x => x.Face == Face.Ace);
+
+            //List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
+            List<int> numberList = new List<int>() { 1, 2, 3, 535, 342, 23 };
+            int sum = numberList.Sum();
+            Console.WriteLine(sum);
+
             deck.Shuffle(3);
 
             foreach (Card card in deck.Cards)
@@ -44,6 +30,28 @@ namespace Blackjack
         }
     }
 }
+
+//BlackjackGame game = new BlackjackGame();
+//game.Players = new List<string>() { "Jesse", "Bill", "Joe" };
+//game.ListPlayers();
+//game.Play();
+//Console.ReadLine();
+
+//BlackjackGame game = new BlackjackGame();
+//game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
+//game.ListPlayers();
+
+//Game game = new BlackjackGame();
+//game.Players = new List<Player>();
+//Player player = new Player();
+//player.Name = "Jesse";
+//game += player;
+//game -= player;
+
+//Card card = new Card();
+//card.Suit = Suit.Clubs;
+//int underlyingValue = Convert.ToInt32(Suit.Diamonds);
+//Console.WriteLine(underlyingValue);
 
 
 
