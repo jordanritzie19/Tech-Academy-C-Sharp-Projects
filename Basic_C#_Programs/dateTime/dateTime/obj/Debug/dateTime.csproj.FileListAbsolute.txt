@@ -1,0 +1,7 @@
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\dateTime\dateTime\bin\Debug\dateTime.exe.config
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\dateTime\dateTime\bin\Debug\dateTime.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\dateTime\dateTime\bin\Debug\dateTime.pdb
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\dateTime\dateTime\obj\Debug\dateTime.csproj.AssemblyReference.cache
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\dateTime\dateTime\obj\Debug\dateTime.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\dateTime\dateTime\obj\Debug\dateTime.exe
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\dateTime\dateTime\obj\Debug\dateTime.pdb

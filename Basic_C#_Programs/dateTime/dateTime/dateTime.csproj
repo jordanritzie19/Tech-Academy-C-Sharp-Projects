@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CF6CB7EC-7FEA-435D-AD9B-A58AF43C3348}</ProjectGuid>
+    <ProjectGuid>{EDEB6C04-3D9B-4D25-8E5C-F19077D9A9E1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Blackjack</RootNamespace>
-    <AssemblyName>Blackjack</AssemblyName>
+    <RootNamespace>dateTime</RootNamespace>
+    <AssemblyName>dateTime</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,15 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BlackjackDealer.cs" />
-    <Compile Include="BlackjackGame.cs" />
-    <Compile Include="BlackjackRules.cs" />
-    <Compile Include="Card.cs" />
-    <Compile Include="Dealer.cs" />
-    <Compile Include="Deck.cs" />
-    <Compile Include="Game.cs" />
-    <Compile Include="IWalkAway.cs" />
-    <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
