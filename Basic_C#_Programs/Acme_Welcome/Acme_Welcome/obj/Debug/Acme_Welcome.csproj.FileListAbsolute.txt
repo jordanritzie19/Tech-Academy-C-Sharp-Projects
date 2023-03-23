@@ -4,3 +4,4 @@ C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Acme_We
 C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Acme_Welcome\Acme_Welcome\obj\Debug\Acme_Welcome.csproj.CoreCompileInputs.cache
 C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Acme_Welcome\Acme_Welcome\obj\Debug\Acme_Welcome.exe
 C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Acme_Welcome\Acme_Welcome\obj\Debug\Acme_Welcome.pdb
+C:\Users\jorda\Documents\Tech-Academy-C-Sharp-Projects\Basic_C#_Programs\Acme_Welcome\Acme_Welcome\obj\Debug\Acme_Welcome.csproj.AssemblyReference.cache
