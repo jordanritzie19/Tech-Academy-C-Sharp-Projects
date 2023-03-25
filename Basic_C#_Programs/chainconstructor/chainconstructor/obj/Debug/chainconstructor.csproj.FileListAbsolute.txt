@@ -1,0 +1,7 @@
+C:\Users\jorda\source\repos\chainconstructor\chainconstructor\bin\Debug\chainconstructor.exe.config
+C:\Users\jorda\source\repos\chainconstructor\chainconstructor\bin\Debug\chainconstructor.exe
+C:\Users\jorda\source\repos\chainconstructor\chainconstructor\bin\Debug\chainconstructor.pdb
+C:\Users\jorda\source\repos\chainconstructor\chainconstructor\obj\Debug\chainconstructor.csproj.AssemblyReference.cache
+C:\Users\jorda\source\repos\chainconstructor\chainconstructor\obj\Debug\chainconstructor.csproj.CoreCompileInputs.cache
+C:\Users\jorda\source\repos\chainconstructor\chainconstructor\obj\Debug\chainconstructor.exe
+C:\Users\jorda\source\repos\chainconstructor\chainconstructor\obj\Debug\chainconstructor.pdb
