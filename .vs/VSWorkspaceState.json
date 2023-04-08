@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Basic_C#_Programs",
+    "\\Basic_C#_Programs\\Blackjack",
+    "\\Basic_C#_Programs\\Blackjack\\Blackjack",
+    "\\Basic_C#_Programs\\DailyReport\\DailyReport"
   ],
-  "SelectedNode": "\\BooleanLogic.sln",
+  "SelectedNode": "\\Basic_C#_Programs\\Blackjack\\Blackjack\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
