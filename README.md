@@ -2,7 +2,7 @@
 
 These are some small projects I made using C#.
 
-## Projects
+## Projects:
 
 - [Car Insurance MVC](/CarInsurance)
 - [Blackjack](/Basic_C#_Programs/Blackjack)
