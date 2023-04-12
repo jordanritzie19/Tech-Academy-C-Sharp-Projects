@@ -17,15 +17,8 @@ namespace CarInsurance.Controllers
         // GET: Insuree
         public ActionResult Index()
         {
-            using (InsuranceEntities db = new InsuranceEntities())
-            {
-                foreach (var insuree in db.Insurees)
-                {
-                    GetQuote(insuree);
-                }
-                db.SaveChanges();
-                return View(db.Insurees.ToList());
-            }
+            
+            return View(db.Insurees.ToList());
         }
 
         // GET: Insuree/Details/5
@@ -65,7 +58,9 @@ namespace CarInsurance.Controllers
             if (ModelState.IsValid)
             {
                 db.Insurees.Add(insuree);
+                GetQuote(insuree);
                 db.SaveChanges();
+        
                 return RedirectToAction("Index");
             }
 
