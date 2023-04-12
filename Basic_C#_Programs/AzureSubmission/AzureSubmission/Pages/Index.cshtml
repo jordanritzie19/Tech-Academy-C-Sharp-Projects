@@ -1,0 +1,10 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h2 class="display-4">You have 1 hour to finish</h2>
+    <p>Start Time: @DateTime.Now | End Time: @DateTime.Now.AddHours(1)</p>
+</div>
