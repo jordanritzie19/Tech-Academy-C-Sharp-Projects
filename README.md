@@ -4,7 +4,7 @@ These are some small projects I made using C#.
 
 ## Projects:
 
-- [Car Insurance MVC](/CarInsurance)
+- [Car Insurance MVC](/CarInsuranceMVC)
 - [Blackjack](/Blackjack)
 
 ### Car Insurance
